@@ -1,0 +1,7 @@
+Đang lắng nghe 127.0.0.1:6001...
+[+] Đã gửi bản mã.
+Key: 5bb373c937cdb659
+IV: 47c12d948c8c753c
+Ciphertext: 632909615701f9ab58476cb75a6fd0a4bb31dfbe87b21795
+Kết nối từ ('127.0.0.1', 53514)
+[+] Bản tin gốc: Xin chao FIT4012
